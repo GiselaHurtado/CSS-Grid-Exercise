@@ -2,10 +2,8 @@ body {
     background-color: whitesmoke;
     width: 100%;
     height: 100%;
-    text-align: end;
-    color: grey;
-    text-size-adjust: 2px;
 }
+
 
 .grid-layout {
     display: grid;
@@ -38,7 +36,10 @@ body {
 
 .c1 {
     grid-column: 1/3;
-    background-image: url('./css/img/m3.jpg');
+    text-align: center;
+    color: rgb(111, 0, 111);
+    font-size: 15px;
+    font-family: Major Mono Display;
 
 }
 
@@ -53,7 +54,7 @@ body {
     height: 150px;
     width: 90%;
     grid-row: 2 / 3;
-    background-image: url('./css/img/m2.jpg');
+    background-image: url('./css/img/m3.jpg');
 }
 
 .c4 {
