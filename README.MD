@@ -17,6 +17,5 @@
 #Repositorio de Github
 #Enlace de Github Pages
 
-ruta/relativa/a/la/imagen.png
 
 <img src="./css/img/captura Readme.png">
